@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
-    "node-rtsp-stream": "^0.0.9"
+    "opencv-wasm": "^4.3.0-10"
   }
 }
